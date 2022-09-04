@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Ejercicio_10 {
+public class Cap_4_Ejercicio_Resuelto_10 {
 
 	public static void main(String[] args) {
 		int ni, est;

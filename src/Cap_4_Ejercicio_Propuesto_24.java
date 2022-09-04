@@ -1,9 +1,9 @@
 import java.util.*;
-public class Ejercicio_24 {
+public class Cap_4_Ejercicio_Propuesto_24 {
 
 	public static void main(String[] args) {
 		
-		double a, b, c, esfmay;
+		double a, b, c;
 		
 		Scanner entrada = new Scanner(System.in);
 		

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_14 {
+public class Cap_4_Ejercicio_Resuelto_14 {
 
 	public static void main(String[] args) {
 		

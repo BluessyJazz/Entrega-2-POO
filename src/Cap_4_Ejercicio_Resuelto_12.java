@@ -1,5 +1,5 @@
 import java.util.*;
-public class Ejercicio_12 {
+public class Cap_4_Ejercicio_Resuelto_12 {
 
 	public static void main(String[] args) {
 		
